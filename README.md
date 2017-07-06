@@ -4,4 +4,6 @@
 * Make sure you have `knex` installed globally
 * If you don't already, create a database called `fullscaleauth`
 * `npm install`
+* `knex migrate:latest`
+* `knex seed:latest`
 * `nodemon`
